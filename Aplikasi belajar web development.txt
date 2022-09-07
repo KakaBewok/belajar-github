@@ -1,13 +1,13 @@
 Materi pembelajaran:
 1. HTML
   HTML5
-  Form Validation
   SEO
 2. CSS
   SCSS
   Framework:
     Bootstrap 5.0
     Material UI
+    Tailwind
 3. Javascript
   Angular
   Vue
