@@ -4,7 +4,6 @@ Materi pembelajaran:
   Form Validation
   SEO
 2. CSS
-  SASS
   SCSS
   Framework:
     Bootstrap 5.0
