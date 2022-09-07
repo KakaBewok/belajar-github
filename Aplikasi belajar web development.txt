@@ -3,7 +3,6 @@ Materi pembelajaran:
   HTML5
   SEO
 2. CSS
-  SASS
   SCSS
   Framework:
     Bootstrap 5.0
@@ -12,4 +11,5 @@ Materi pembelajaran:
 3. Javascript
   Angular
   Vue
+  React
   Express Js
