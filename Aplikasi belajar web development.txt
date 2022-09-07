@@ -1,4 +1,11 @@
 Materi pembelajaran:
 1. HTML
+  HTML5
+  Form Validation
+  SEO
 2. CSS
+  SASS
+  SCSS
 3. Javascript
+  Angular
+  Vue
